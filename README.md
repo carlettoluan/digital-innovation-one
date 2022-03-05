@@ -426,6 +426,6 @@ Este é o repositório onde estão organizadas as resoluções dos desafios do b
 
 ---
 
-## 🧑🏿‍🦱 Autor
+## 🧑🏿 Autor
 
-Feito por Luan Carletto @catsncodes 🐈‍⬛
+Feito por Luan Carletto @catsncodes 🐈‍
